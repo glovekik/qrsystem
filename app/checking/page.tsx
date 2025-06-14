@@ -1,7 +1,8 @@
+ 
 "use client"
 
 import { useState } from "react"
-import { QRScanner } from "@/components/qr-scanner"
+import  QRScanner  from "@/components/qr-scanner"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"

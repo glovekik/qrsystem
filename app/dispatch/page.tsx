@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { QRScanner } from "@/components/qr-scanner"
+import  QRScanner  from "@/components/qr-scanner"
 import { DispatchList } from "./dispatch-list"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
